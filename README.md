@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sylvia (唐雨萌)
+# 👋 Hi, I'm Sylvia 唐雨萌
 
 **数据科学与大数据技术本科 · 2024级｜大模型应用开发方向实习生求职中**
 
