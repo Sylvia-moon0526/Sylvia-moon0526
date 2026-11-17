@@ -33,7 +33,7 @@
 
 ## 🛠️ 技术栈
 
-`Python` · `LangChain` · `LangGraph` · `AutoGen` · `pytest` · `Streamlit` · `SiliconFlow API` · `Prompt Engineering` · `Docker`（学习中）· `RAG`（学习中）
+`Python` · `LangChain` · `LangGraph` · `AutoGen` · `pytest` · `Streamlit` · `SiliconFlow API` · `Prompt Engineering` ·  `RAG`· `Docker`（学习中）·
 
 ## 📈 动态
 
